@@ -7,7 +7,8 @@ This project is a feature-rich multi-vendor e-commerce platform designed for sea
 Frontend
 
 ## Deployed App 🌐
-[https://shop-smart-blue.vercel.app/](https://shop-smart-blue.vercel.app/)  
+https://shopsmart-kappa.vercel.app/
+ 
 
 
 ## Directory Structure 📂
@@ -107,8 +108,7 @@ Shop-Smart
 
 
 
-## Video Walkthrough of the Project 🎥
-https://youtu.be/p6vo4MC416o?si=2dI-hATAFJZ45ekv
+
 
 
 ## Features ⚙️
